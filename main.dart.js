@@ -81933,7 +81933,7 @@ p=A.ey(A.bD("Our Menu List",k,k,k,A.c3(k,k,k,k,k,k,k,k,k,k,k,25,B.mk,k,B.aT,k,k,
 o=A.hG(a5)||A.b2(a5,k,j).w.a.a>=1250||A.b2(a5,k,j).w.a.a>600?200:35
 n=A.hG(a5)||A.b2(a5,k,j).w.a.a>=1250||A.b2(a5,k,j).w.a.a>600
 f=f.b
-f=n?f:f/2
+f=n?f:f/1.3
 o=A.cq(k,A.Xs(new A.xr(i,k),k,k,k,k),B.q,k,k,k,f,new A.ao(o,0,o,0),k,10)
 f=A.bf(k,50,k)
 n=A.Zj(B.rM,k,k,3)
@@ -81981,7 +81981,7 @@ ad(){return new A.Q8(B.j)}}
 A.Q8.prototype={
 aI(){this.aU()},
 K(a){var s=null,r=this.a,q=r.f.a.a,p=A.ev(20),o=t.p
-return A.bf(A.dY(A.a([new A.cY(B.DB,A.bf(A.cq(s,s,B.q,s,s,new A.d5(s,A.akS(B.eD,new A.l3(r.e,s,s)),s,p,s,s,B.ax),s,s,s,s),180,q*2),s),A.cq(s,A.j5(A.a([A.dY(A.a([A.bD(r.d,s,s,s,B.P7,B.d8,s),A.bD(r.c,s,s,s,B.QE,B.d8,s)],o),B.b_,B.a6,B.Z)],o),B.as,B.fw,B.Z),B.q,s,s,s,s,s,B.lZ,s),B.MT,B.MU],o),B.as,B.fw,B.cN),s,q)}}
+return A.bf(A.dY(A.a([new A.cY(B.DB,A.bf(A.cq(s,s,B.q,s,s,new A.d5(s,A.akS(B.eD,new A.l3(r.e,s,s)),s,p,s,s,B.ax),s,s,s,s),150,q*2),s),A.cq(s,A.j5(A.a([A.dY(A.a([A.bD(r.d,s,s,s,B.P7,B.d8,s),A.bD(r.c,s,s,s,B.QE,B.d8,s)],o),B.b_,B.a6,B.Z)],o),B.as,B.fw,B.Z),B.q,s,s,s,s,s,B.lZ,s),B.MT,B.MU],o),B.as,B.fw,B.cN),s,q)}}
 A.yb.prototype={
 ad(){var s=$.at()
 return new A.QP(new A.t0(B.hj,s),new A.t0(B.hj,s),new A.t0(B.hj,s),new A.bz(null,t.am),B.j)}}
